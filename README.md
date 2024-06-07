@@ -2,6 +2,7 @@
 
 Meu nome é Sofia Pacheco
 Estou estudando na ![Alura](https://alura.valeonetworks.com/)
+
 Estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
